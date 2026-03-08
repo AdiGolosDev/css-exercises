@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.pinks {
+    background-color: #e65a80;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #3343bd;
+    font-size: 36px;
+}
+
+.pinks.fonts {
+    font-size: 24px;
+}
+
+#four {
+    background-color:  hsl(120, 40%, 60%);
+    font-size: 24px;
+    font-weight: 700;
+}
